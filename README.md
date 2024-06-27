@@ -1,2 +1,0 @@
-# security-misconfiguration
-m183
